@@ -1,0 +1,29 @@
+p{
+        font-weight: 900;
+        font-family: arial;
+        text-align: center;
+        color: white;
+      }
+      h1{
+        text-align: center;
+        color:white;
+      }
+      img{
+        border: 5px solid black;
+        border-radius: 50%;
+      }
+      body{
+        background-color: black;
+        padding: 0;
+        margin: 0;
+        
+      }
+      a{
+        font-size: 30px;
+        
+        
+      }
+      button{
+        border: 10px solid white;
+        font-size: 30px;
+      }
